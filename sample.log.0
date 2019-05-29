@@ -1,0 +1,4 @@
+May 28, 2019 4:05:33 PM com.javacodegeeks.corejava.util.logging.SequencedLogFile main
+INFO: Logging info message.
+May 28, 2019 4:05:33 PM com.javacodegeeks.corejava.util.logging.SequencedLogFile main
+WARNING: Logging warn message.
